@@ -1,0 +1,17 @@
+#lienzo{
+	border: 2px solid;
+	border-color: black;
+	border-radius: 15 px;
+}
+
+#balon{
+	visibility: hidden;
+	display: none;
+}
+
+#futbolista{
+
+	visibility: hidden;
+	display: none;
+
+}
